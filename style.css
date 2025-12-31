@@ -1,0 +1,35 @@
+button {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+ button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 1rem;
+    margin-top: 25rem;
+    font-size: 1rem;
+    background-color: black;
+    color:white
+}
+
+h1 {
+    color:darkgreen;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color:black
+}
+
